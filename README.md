@@ -11,4 +11,3 @@ This is how my personal portfolio looks like
 ![image](https://github.com/SanchayRohad/Personal-Portfolio/assets/85246448/571be32f-3586-49aa-80f7-ef85cba16de6)
 
 
-Visit https://sanchayrohad.github.io/Personal-Portfolio/
